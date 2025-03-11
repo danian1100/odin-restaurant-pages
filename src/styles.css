@@ -1,0 +1,39 @@
+body {
+    background-color: darkslategrey;
+}
+
+h1 {
+    text-align: center;
+}
+
+p{
+text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+button {
+    border-radius: 10px;
+    border: none;
+    padding: 5px 10px;
+    font-size: 0.9rem;
+    background-color: darkcyan;
+}
+
+button:hover {
+    background-color: darkgrey;
+}
+
+.start {
+    text-align: start;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+    border-radius: 50px;
+}
